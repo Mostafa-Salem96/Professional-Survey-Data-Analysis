@@ -1,5 +1,6 @@
 Project Title: Professional Survey Data Analysis
-Description:
+
+- Description:
 This project focuses on analyzing a professional survey dataset using Power BI to extract valuable insights about respondents' professional backgrounds, preferences, and satisfaction levels across various industries.
 
 - Key Objectives:
