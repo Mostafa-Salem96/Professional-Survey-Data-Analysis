@@ -2,7 +2,7 @@ Project Title: Professional Survey Data Analysis
 Description:
 This project focuses on analyzing a professional survey dataset using Power BI to extract valuable insights about respondents' professional backgrounds, preferences, and satisfaction levels across various industries.
 
-Key Objectives:
+- Key Objectives:
 
 Analyze demographic information (age, gender, location) of the survey participants.
 Assess professional experience and job satisfaction levels.
@@ -16,7 +16,8 @@ Data cleaning and transformation in Power Query.
 DAX (Data Analysis Expressions) for advanced calculations and measures.
 Interactive dashboards to present trends in key metrics such as job satisfaction, salary distribution, and career growth.
 Custom visuals for in-depth analysis of the dataset, including bar charts, heatmaps, and pie charts.
-Insights Derived:
+
+- Insights Derived:
 
 Detailed analysis of the satisfaction levels across various job sectors and how they relate to work-life balance and compensation.
 Identification of top industries with the highest employee retention rates.
